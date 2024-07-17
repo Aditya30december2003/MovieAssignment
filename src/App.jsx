@@ -9,7 +9,7 @@ function App() {
     <>
     <Navbar />
     <Routes>
-     <Route path='/' element={<Home />} />
+     <Route path='/MovieAssignment/' element={<Home />} />
     </Routes>
     <Footer />
     </>
