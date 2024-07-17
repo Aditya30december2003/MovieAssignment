@@ -8,9 +8,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <Routes>
-     <Route path='/movieAssignment/' element={<Home />} />
-    </Routes>
+    <Home />
     <Footer />
     </>
   )

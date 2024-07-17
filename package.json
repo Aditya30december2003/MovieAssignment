@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Aditya30december2003.github.io/MovieAssignment/",
 
   "name": "otakurealm",
 
@@ -12,7 +11,7 @@
   "scripts": {
     "predeploy":"npm run build",
 
-    
+
     "deploy":"gh-pages -d dist",
 
 
